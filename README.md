@@ -1,1 +1,1 @@
-# zk-bootcamp
+# Zero Knowledge Bootcamp
